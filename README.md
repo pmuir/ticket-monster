@@ -1,4 +1,4 @@
-BlAH # What is this?
+# What is this?
 
 This is the Git repository for all things TicketMonster, a showcase application for [JBoss Developer Framework](http://jboss.org/jdf).
 
